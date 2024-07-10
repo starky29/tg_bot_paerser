@@ -1,2 +1,2 @@
-# tg_bot_paerser
+# tg_bot_parser
 скидывает инфу с сайта
